@@ -21,10 +21,10 @@ modified cars
 Dynamic weather and day-night cycle affecting driving conditions
 
 similar games:
-Forza horizon series
-Carx drift racing
-Need for speed series
-Assetto Corsa 
+- Forza horizon series
+- Carx drift racing
+- Need for speed series
+- Assetto Corsa 
 
 
 ### 2. Street Racer (Motorbike Racing Game)
@@ -47,8 +47,8 @@ Bikes
 Missions and challenges scattered across the world
 
 Similar Games:
-Ride 4,5
-MotoGP
+- Ride 4,5
+- MotoGP
 
 ### 3. Sharp Shooter (3D Third-Person Shooting Game)
 Genre: Action / Tactical Shooter
@@ -71,5 +71,5 @@ Stealth and combat mechanics with tactical options
 Mission-based gameplay with side quests and challenges.
 
 Similar Games:
-Hitman series
-call of duty
+- Hitman series
+- call of duty
