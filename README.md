@@ -1,75 +1,126 @@
-# Game Proposal
+---
+marp: true
+author: Senith Perera
+theme: uncover
+class: invert
 
-### 1. Street Swiper (Drift Car Game) 
-Genre: 3D Racing / Drift 
-Perspective: Third-Person
-Platform: PC with keyboard and controllers
+---
+# STREET SWEEPER
+##### DRIFT GAME
+BY SENITH PERERA
 
-Description:
-Street Swiper is an drift car game where players explore a vibrant city filled with dynamic traffic, AI opponents, and hidden drift zones. Master the art of drifting through urban streets and mountain roads, compete in drift events, and many modified cars to choose.
+---
+## Game Overview
 
-Key Features:
+**Genre:** 3D Drift Racing / Open-World Driving  
+**Perspective:** Third-Person  
+**Platform:** PC (Keyboard & Controller support)  
+**Main Focus:** Realistic drift physics
 
-open-world city environment
+---
+## Core Gameplay Loop
 
-AI traffic and rival drivers with dynamic behavior
+- Explore the open-world city and mountain roads.  
+- Engage in drift events or encounter AI drivers for spontaneous drift duels.  
+- Earn points by chaining drifts and completing challenges.  
+- Progress through drifting ranks to unlock new areas, cars, and features.
 
-Realistic drift physics with intuitive controls
+---
+## Game Modes
 
-modified cars 
+### Free Roam
+- Explore the city and countryside.  
+- Discover hidden drift zones and collectibles.  
+- Random encounters with AI rivals.
 
-Dynamic weather and day-night cycle affecting driving conditions
+---
+## Game Modes
+### Drift Events
+- Time-limited challenges.  
+- Score-based competitions.  
+- Style-based rating (angle, speed, proximity to objects).
 
-similar games:
-- Forza horizon series
-- Carx drift racing
-- Need for speed series
-- Assetto Corsa 
+---
+## Game Modes
+### AI Rival Duels
+- Triggered through in-world encounters.  
+- AI with adaptive difficulty and varying driving personalities.  
+- Earn reputation and rare car parts.
 
+---
+## World Design
 
-### 2. Street Racer (Motorbike Racing Game)
-Genre: 3D  Racing / Motorbike 
-Perspective: Third-Perso
-Platform: PC with keyboard and controllers
+- **Open-world city:** Alleyways, industrial zones, highways.  
+- **Mountain roads:** Switchbacks, tunnels, cliffside hairpins.  
+- **Zones:** Hidden drift parks, underground garages, challenge arenas.  
+- **Dynamic Environment:** Day-night cycle, rain/fog that impacts traction and visibility.
 
-Description:
-Street Swiper is an motorbike game where players explore a vibrant city filled with dynamic traffic, AI opponents, and hidden race zones. Racing through urban streets and traffic roads and compete in racing events, and many bikes to choose.
-Key Features:
+---
 
-Open-world environment 
+## Drift Mechanics
 
-AI opponents with adaptive racing behavior
+- **Weight Transfer:** Simulates car weight shifts during acceleration, braking, and turning.  
+- **Tire Grip and Slip Angle:**  
+  - Tires lose grip progressively, not instantly.  
+  - Each tire has a slip curve for grip fade and recovery.  
 
-Realistic bike physics including leaning and balance
+---
+## Drift Mechanics
+- **Throttle Control:**  
+  - Affects drift angle and speed.  
+  - Overuse = spinout; underuse = understeer.  
+- **Steering Sensitivity:**  
+  - Countersteering required mid-drift.  
+  - Input delay based on speed and car setup.
 
-Bikes
+---
+##  AI System
 
-Missions and challenges scattered across the world
+### Rival Drivers
+- Varying aggression levels and driving styles.  
+- Reactive to player behavior (chasing, blocking, fleeing).  
+- AI can make mistakes (oversteer, crash, recover).
 
-Similar Games:
-- Ride 4,5
-- MotoGP
+---
+##  AI System
 
-### 3. Sharp Shooter (3D Third-Person Shooting Game)
-Genre: Action / Tactical Shooter
-Perspective:  first person
-Platform: PC 
+### Traffic AI
+- Adds challenge in urban areas.  
+- Can trigger unexpected obstacles or chain reactions.
 
-Description:
-sharp shooter is a 3d first person shooting game, player has to kill AI enemy shooters and save the hostage and finish the mission. It's like a secret agent game. player can get and collect guns.
+---
+## Garage System
+- Choose, collect, store, and modify vehicles. 
 
-Key Features:
+---
+## Progression & Rewards
 
-Open-world city with AI NPCs and enemy factions
+- **Drift Score System:** Based on angle, speed, and duration.  
+- **Reputation System:** Gained through rival duels and event wins.
 
-Smart AI that uses cover, flanks, and reacts to player actions
+---
 
-Variety of weapons and upgrades
+##  Visuals & Audio
 
-Stealth and combat mechanics with tactical options
+- Vibrant, stylized city design.  
+- High-fidelity smoke and tire effects.  
+- Dynamic weather (reflections, wet roads).  
+- Custom soundtrack + radio stations (electronic, synthwave, hip hop).
 
-Mission-based gameplay with side quests and challenges.
+---
 
-Similar Games:
-- Hitman series
-- call of duty
+## UI/UX
+
+- Minimal HUD focused on immersion.  
+- Quick-access menus for car switch, map, and tuning.  
+- Replay mode for sharing drifts and highlights.
+
+---
+
+## Controller & Keyboard Support
+
+- Full keyboard support.  
+- Native support for Xbox and PlayStation controllers.  
+- Vibration and haptic feedback during drifts and crashes.
+
+---
